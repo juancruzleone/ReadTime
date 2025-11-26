@@ -1,0 +1,14 @@
+.selectsContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+select {
+    border-color: black;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 4px;
+}

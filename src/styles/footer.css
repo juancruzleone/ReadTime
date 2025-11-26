@@ -1,0 +1,11 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer h4 {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+}

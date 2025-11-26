@@ -1,0 +1,21 @@
+nav {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul li {
+    color: black;
+}
+
+nav svg {
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+nav svg:hover {
+}
